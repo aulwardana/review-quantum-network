@@ -1,0 +1,32 @@
+key,title,found_in_search,tier
+Ref14,Benchmarking quantum machine learning methods for intrusion detection on noisy quantum computers,True,T2
+Ref15,Hybrid quantum machine learning for intrusion detection: A comparative study of {QNN} and {QSVM} models,True,T2
+Ref21,"Enhancing network intrusion detection with quantum machine learning: A comprehensive survey of methods, metrics, and applications",True,T2
+Ref22,Quantum machine learning algorithms for anomaly detection: A review,True,T2
+Ref23,Benchmarking quantum machine learning methods for intrusion detection on noisy quantum computers,True,T2
+Ref24,A systematic review of anomaly detection in {IoT} security: towards quantum machine learning approach,True,T2
+Ref60,{Trojan-horse} attacks on quantum-key-distribution systems,False,
+Ref61,A quantum key distribution protocol for rapid denial of service detection,False,
+Ref62,Hacking commercial quantum cryptography systems by tailored bright illumination,False,
+Ref63,Security of trusted repeater quantum key distribution networks,False,
+Ref91,Quantum man-in-the-middle attack on the calibration process of quantum key distribution,True,T1
+Ref98,Deep-Learning-Based Radio-Frequency {Side-Channel} Attack on Quantum Key Distribution,True,T3
+Ref99,Entanglement Verification in Quantum Networks with Tampered Nodes,True,T1
+AlKuwari2026,Machine Learning Techniques for Enhancing Quantum Key Distribution,True,T1
+AlMohammed2021,Machine Learning Techniques for Detecting Attackers During Quantum Key Distribution in {IoT} Networks With Application to Railway Scenarios,True,T1
+Chou2024,Empirical Risk-aware Machine Learning on Trojan-Horse Detection for Trusted Quantum Key Distribution Networks,True,T1
+Ding2023,Machine-learning-based detection for quantum hacking attacks on continuous-variable quantum-key-distribution systems,True,T1
+DuHuang2022,Multi-Attack Detection: General Defense Strategy Based on Neural Networks for {CV-QKD},True,T1
+Faker2024,Quantum Machine Learning in Intrusion Detection Systems: A Systematic Mapping Study,True,T2
+Gupta2026,Physics-Aware Temporal Feature Engineering for Eavesdropping Detection in {BBM92} Quantum Key Distribution,False,
+Jin2024,Attack detection scheme for continuous variable quantum key distribution based on a graph neural network,True,T1
+Kish2024,Mitigation of channel tampering attacks in continuous-variable quantum key distribution,True,T1
+Long2023,A Survey of Machine Learning Assisted Continuous-Variable Quantum Key Distribution,False,
+Luo2022,Beyond universal attack detection for continuous-variable quantum key distribution via deep learning,True,T1
+Mafu2024,Advances in Artificial Intelligence and Machine Learning for Quantum Communication Applications,False,
+Mao2020,Detecting quantum attacks: A machine learning based defense strategy for practical continuous-variable quantum key distribution,True,T1
+Nicesio2023,"Quantum Machine Learning for Network Intrusion Detection Systems, a Systematic Literature Review",True,T2
+Sai2025,Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions,True,T2
+Satoh2021,Attacking the Quantum Internet,True,T1
+Tunc2023,Machine Learning Based Attack Detection for Quantum Key Distribution,True,T1
+Xu2024,Automatically identifying imperfections and attacks in practical quantum key distribution systems via machine learning,True,T1

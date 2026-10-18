@@ -1,0 +1,10 @@
+stage,n
+records identified,5060
+after de-duplication,3764
+candidates after keyword screening,894
+T1 detection in quantum communication,414
+T2 QML for intrusion/anomaly detection,325
+T3 attacks and vulnerabilities,155
+known relevant references,31
+retrieved by the search,24
+curated references cited in the paper,126

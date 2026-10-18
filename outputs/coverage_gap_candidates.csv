@@ -1,0 +1,81 @@
+tier,year,cited_by,priority,is_review,title,venue,doi,first_author
+T2,2024,115.0,38.333333333333336,False,Advancing cybersecurity and privacy with artificial intelligence: current trends and future research directions,Frontiers in Big Data,10.3389/fdata.2024.1497535,Krishnashree Achuthan
+T2,2022,105.0,21.0,False,Anomaly detection in high-energy physics using a quantum autoencoder,Physical review. D/Physical review. D.,10.1103/physrevd.105.095004,Vishal S. Ngairangbam
+T1,2025,41.0,20.5,False,A Novel Approach Based on Quantum Key Distribution Using BB84 and E91 Protocol for Resilient Encryption and Eavesdropper Detection,IEEE Access,10.1109/access.2025.3539178,Noor Ul Ain
+T2,2024,49.0,16.333333333333332,False,Optimizing intrusion detection using intelligent feature selection with machine learning model,Alexandria Engineering Journal,10.1016/j.aej.2024.01.073,Nojood O. Aljehane
+T1,2023,64.0,16.0,False,Hacking measurement-device-independent quantum key distribution,Optica,10.1364/optica.485389,Feng-Yu Lu
+T2,2023,63.0,15.75,False,Benchmarking adversarially robust quantum machine learning at scale,Physical Review Research,10.1103/physrevresearch.5.023186,Maxwell T. West
+T1,2018,116.0,12.88888888888889,False,Homodyne-detector-blinding attack in continuous-variable quantum key distribution,Physical Review A,10.1103/physreva.98.012312,Hao Qin
+T1,2016,140.0,12.727272727272727,False,Practical quantum private query with better performance in resisting joint-measurement attack,Physical Review A,10.1103/physreva.93.042318,Chun‐Yan Wei
+T2,2024,38.0,12.666666666666666,False,Quantum intrusion detection system using outlier analysis,Scientific Reports,10.1038/s41598-024-78389-0,Tae Hoon Kim
+T2,2024,38.0,12.666666666666666,False,Quantum Machine Learning for Advanced Threat Detection in Cybersecurity,International Journal of Safety and Security Engineering,10.18280/ijsse.140319,Reyadh Alluhaibi
+T2,2025,24.0,12.0,False,QuantumNetSec: Quantum Machine Learning for Network Security,International Journal of Network Management,10.1002/nem.70018,Diego Medeiros De Abreu
+T2,2025,24.0,12.0,False,An In-Depth Comparative Study of Quantum-Classical Encoding Methods for Network Intrusion Detection,IEEE Open Journal of the Communications Society,10.1109/ojcoms.2025.3537957,Adam Kadi
+T2,2021,71.0,11.833333333333334,False,Anomaly detection with variational quantum generative adversarial networks,Quantum Science and Technology,10.1088/2058-9565/ac0d4d,Daniel Herr
+T2,2023,47.0,11.75,False,Intrusion detection model using optimized quantum neural network and elliptical curve cryptography for data security,Alexandria Engineering Journal,10.1016/j.aej.2023.03.072,Heba Kadry
+T2,2024,35.0,11.666666666666666,False,Quantum‐Neural Network Model for Platform Independent Ddos Attack Classification in Cyber Security,Advanced Quantum Technologies,10.1002/qute.202400084,Muhammed Yusuf Küçükkara
+T1,2025,23.0,11.5,True,"A review of quantum communication and information networks with advanced cryptographic applications using machine learning, deep learning techniques",Franklin Open,10.1016/j.fraope.2025.100223,M. Ramya
+T2,2025,23.0,11.5,False,AI-Driven Framework for Secure and Efficient Load Management in Multi-Station EV Charging Networks,World Electric Vehicle Journal,10.3390/wevj16070370,Md Sabbir Hossen
+T1,2023,45.0,11.25,False,Induced-Photorefraction Attack against Quantum Key Distribution,Physical Review Applied,10.1103/physrevapplied.19.054052,Peng Ye
+T2,2025,22.0,11.0,True,"Next-Generation Smart Grid Cybersecurity: A Systematic Review of OT Cyber Threats, AI-Driven Defense, Cyber Deception Techniques, and Emerging Security Strategies",IEEE Access,10.1109/access.2025.3623834,Hind Lakhal
+T2,2024,29.0,9.666666666666666,False,Network intrusion detection based on variational quantum convolution neural network,The Journal of Supercomputing,10.1007/s11227-024-05919-y,Changqing Gong
+T2,2024,29.0,9.666666666666666,True,Techniques and optimization algorithms in machine learning: A review,,10.70593/978-81-981271-4-3_2,Nitin Liladhar Rane
+T1,2015,102.0,8.5,False,Security loophole in free-space quantum key distribution due to spatial-mode detector-efficiency mismatch,Physical Review A,10.1103/physreva.91.062301,Shihan Sajeed
+T1,2021,50.0,8.333333333333334,False,Security proof of practical quantum key distribution with detection-efficiency mismatch,Physical Review Research,10.1103/physrevresearch.3.013076,Yanbao Zhang
+T2,2022,41.0,8.2,False,Network attack detection scheme based on variational quantum neural network,The Journal of Supercomputing,10.1007/s11227-022-04542-z,Changqing Gong
+T2,2026,8.0,8.0,True,Quantum Computing in Transportation Engineering: A Survey,IEEE Transactions on Intelligent Transportation Systems,10.1109/tits.2026.3662626,Shriyank Somvanshi
+T1,2020,55.0,7.857142857142857,False,Hacking Quantum Key Distribution via Injection Locking,Physical Review Applied,10.1103/physrevapplied.13.034008,Xiao-Ling Pang
+T2,2020,52.0,7.428571428571429,False,Towards Quantum-Enhanced Machine Learning for Network Intrusion Detection,IEEE International Symposium on Network Computing and Applications (NCA),10.1109/nca51143.2020.9306691,Arnaldo Gouveia
+T2,2026,7.0,7.0,False,Bibliometric analysis of secure IoT for quantum computing,Internet of Things,10.1016/j.iot.2026.101872,Hamza Ibrahim
+T2,2023,28.0,7.0,False,A Quantum-Classical Hybrid Solution for Deep Anomaly Detection,Entropy,10.3390/e25030427,Maida Wang
+T2,2021,42.0,7.0,True,Quantum machine learning for intrusion detection of distributed denial of service attacks: a comparative overview,,10.1117/12.2593297,Esteban Payares
+T1,2018,63.0,7.0,False,Eavesdropping and countermeasures for backflash side channel in quantum cryptography,Optics Express,10.1364/oe.26.021020,Paulo Vinicius Pereira Pinheiro
+T1,2016,77.0,7.0,False,Testing Random-Detector-Efficiency Countermeasure in a Commercial System Reveals a Breakable Unrealistic Assumption,IEEE Journal of Quantum Electronics,10.1109/jqe.2016.2611443,Anqi Huang
+T1,2022,33.0,6.6,False,Automated machine learning for secure key rate in discrete-modulated continuous-variable quantum key distribution,Optics Express,10.1364/oe.455762,Zhiping Liu
+T1,2015,78.0,6.5,False,Attacks exploiting deviation of mean photon number in quantum key distribution and coin tossing,Physical Review A,10.1103/physreva.91.032326,Shihan Sajeed
+T1,2025,13.0,6.5,False,Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification,"International Conference on Electrical, Computer and Communication Engineering",10.1109/ecce64574.2025.11013884,Gazi Tanbhir
+T1,2017,64.0,6.4,False,Invisible Trojan-horse attack,Scientific Reports,10.1038/s41598-017-08279-1,Shihan Sajeed
+T2,2023,25.0,6.25,False,DEQSVC: Dimensionality Reduction and Encoding Technique for Quantum Support Vector Classifier Approach to Detect DDoS Attacks,IEEE Access,10.1109/access.2023.3322723,Ahmad Alomari
+T1,2018,55.0,6.111111111111111,False,Implementation vulnerabilities in general quantum cryptography,OPUS Publication Server of the University of Stuttgart (University of Stuttgart),10.18419/opus-18261,Anqi Huang
+T2,2025,12.0,6.0,False,SHAP-based intrusion detection in IoT networks using quantum neural networks on IonQ hardware,Journal of Parallel and Distributed Computing,10.1016/j.jpdc.2025.105133,Rajkumar K K
+T2,2025,12.0,6.0,False,Quantum-driven zero trust architecture with dynamic anomaly detection in 7G technology: A neural network approach,Measurement Digitalization,10.1016/j.meadig.2025.100005,Shakil Ahmed
+T1,2026,6.0,6.0,False,Resisting Quantum Key Distribution Attacks Using Quantum Machine Learning,IET Quantum Communication,10.1049/qtc2.70028,Ali Al-Kuwari
+T1,2019,48.0,6.0,False,Monitoring and Physical-Layer Attack Mitigation in SDN-Controlled Quantum Key Distribution Networks,Journal of Optical Communications and Networking,10.1364/jocn.11.00a209,E. Hugues-Salas
+T2,2023,23.0,5.75,False,Anomaly detection speed-up by quantum restricted Boltzmann machines,Communications Physics,10.1038/s42005-023-01390-y,Lorenzo Moro
+T1,2016,63.0,5.7272727272727275,False,Insecurity of Detector-Device-Independent Quantum Key Distribution,Physical Review Letters,10.1103/physrevlett.117.250505,Shihan Sajeed
+T1,2025,11.0,5.5,False,Quantum-aware secure blockchain intrusion detection system for industrial IoT networks,Scientific Reports,10.1038/s41598-025-31985-0,Nasir Hussain
+T1,2025,11.0,5.5,False,Phase error rate estimation in QKD with imperfect detectors,Quantum,10.22331/q-2025-12-11-1937,Devashish Tupkary
+T1,2015,61.0,5.083333333333333,False,Hacking the Bell test using classical light in energy-time entanglement–based quantum key distribution,Science Advances,10.1126/sciadv.1500793,Jonathan Jogenfors
+T1,2018,45.0,5.0,False,Hacking the Quantum Key Distribution System by Exploiting the Avalanche-Transition Region of Single-Photon Detectors,Physical Review Applied,10.1103/physrevapplied.10.064062,Yong-Jun Qian
+T1,2025,10.0,5.0,False,Application of Quantum Key Distribution to Enhance Data Security in Agrotechnical Monitoring Systems Using UAVs,Applied Sciences,10.3390/app15052429,Makhabbat Bakyt
+T1,2019,39.0,4.875,False,Robust countermeasure against detector control attack in a practical quantum key distribution system,Optica,10.1364/optica.6.001178,Yong-Jun Qian
+T2,2024,14.0,4.666666666666667,False,Quantum Machine Learning for Enhanced Cybersecurity: Proposing a Hypothetical Framework for Next-Generation Security Solutions,Journal of Technologies Information and Communication,10.55267/rtic/15824,Md. Forhad Hossain
+T1,2022,23.0,4.6,False,Phase-reference-intensity attack on continuous-variable quantum key distribution with a local local oscillator,Physical Review A,10.1103/physreva.105.032601,Yun Shao
+T1,2017,46.0,4.6,False,Quantum key distribution with hacking countermeasures and long term field trial,Scientific Reports,10.1038/s41598-017-01884-0,A. R. Dixon
+T1,2022,22.0,4.4,False,Practical Side-Channel Attack on Free-Space QKD Systems With Misaligned Sources and Countermeasures,IEEE Access,10.1109/access.2022.3196677,Pablo Arteaga-Díaz
+T1,2022,22.0,4.4,False,Security of quantum key distribution with detection-efficiency mismatch in the multiphoton case,Quantum,10.22331/q-2022-07-22-771,Anton Sergeevich Trushechkin
+T1,2024,13.0,4.333333333333333,False,Estimating Interception Density in the BB84 Protocol: A Study with a Noisy Quantum Simulator,Future Internet,10.3390/fi16080275,Francesco Fiorini
+T1,2021,26.0,4.333333333333333,False,Security of quantum key distribution with source and detection imperfections,New Journal of Physics,10.1088/1367-2630/abdf9b,Shi‐Hai Sun
+T1,2015,52.0,4.333333333333333,False,Random Variation of Detector Efficiency: A Countermeasure Against Detector Blinding Attacks for Quantum Key Distribution,IEEE Journal of Selected Topics in Quantum Electronics,10.1109/jstqe.2015.2389528,Charles Ci Wen Lim
+T1,2019,34.0,4.25,False,Practical Long-Distance Side-Channel-Free Quantum Key Distribution,Physical Review Applied,10.1103/physrevapplied.12.054034,Xiang‐Bin Wang
+T1,2022,20.0,4.0,False,Detecting practical quantum attacks for continuous-variable quantum key distribution using density-based spatial clustering of applications with noise,Physical Review A,10.1103/physreva.106.022607,Qin Liao
+T1,2025,8.0,4.0,False,Quantum Hacking: Induced‐Photorefraction Attack on a Practical Continuous‐Variable Quantum Key Distribution System,Advanced Quantum Technologies,10.1002/qute.202500053,Yiliang Wang
+T1,2023,16.0,4.0,False,Defending against a laser-seeding attack on continuous-variable quantum key distribution using an improved optical power limiter,Physical Review A,10.1103/physreva.108.052616,Qingquan Peng
+T2,2024,12.0,4.0,False,Quantum-Enhanced Representation Learning: A Quanvolutional Autoencoder Approach against DDoS Threats,Machine Learning and Knowledge Extraction,10.3390/make6020044,Pablo Rivas
+T2,2026,4.0,4.0,True,"Intrusion Detection in the Internet of Things: A Comprehensive Review of Techniques, Architectures, Datasets, and Emerging Trends",Sensors,10.3390/s26113405,Asma Komal
+T2,2025,8.0,4.0,False,Quantum-Enhanced Battery Anomaly Detection in Smart Transportation Systems,Applied Sciences,10.3390/app15179452,Alexander Mutiso Mutua
+T1,2022,20.0,4.0,False,Ability of strong-pulse illumination to hack self-differencing avalanche photodiode detectors in a high-speed quantum-key-distribution system,Physical Review A,10.1103/physreva.106.033713,Binwu Gao
+T1,2021,24.0,4.0,False,Bennett-Brassard 1984 quantum key distribution using conjugate homodyne detection,Physical Review A,10.1103/physreva.103.012606,Bing Qi
+T2,2026,4.0,4.0,False,Quantum Machine Learning for Anomaly Detection: The Future of Smarter and Safer IoT Networks,IEEE Network,10.1109/mnet.2025.3637512,Ishtiaq Ahmad
+T1,2020,27.0,3.857142857142857,False,Hacking single-photon avalanche detectors in quantum key distribution via pulse illumination,Optics Express,10.1364/oe.397962,Zhihao Wu
+T2,2024,11.0,3.6666666666666665,False,Enhanced Quantum Convolutional Neural Network for Signature Authentication in Consumer Products,IEEE Transactions on Consumer Electronics,10.1109/tce.2024.3509624,Bala Krishnan Raghupathy
+T1,2024,11.0,3.6666666666666665,False,Electromagnetic side-channel attack risk assessment on a practical quantum-key-distribution receiver based on multi-class classification,EPJ Quantum Technology,10.1140/epjqt/s40507-024-00290-6,John J. Pantoja
+T1,2024,11.0,3.6666666666666665,False,A Comparative Analysis of Adversarial Robustness for Quantum and Classical Machine Learning Models,IEEE International Conference on Quantum Computing and Engineering (QCE),10.1109/qce60285.2024.00171,Maximilian Wendlinger
+T1,2019,29.0,3.625,False,Security analysis of practical continuous-variable quantum key distribution systems under laser seeding attack,Optics Express,10.1364/oe.27.027369,Yi Zheng
+T1,2022,18.0,3.6,False,Discrete-variable quantum key distribution with homodyne detection,Quantum,10.22331/q-2022-01-03-613,Ignatius William Primaatmaja
+T1,2016,39.0,3.5454545454545454,False,Using Modeling and Simulation to Study Photon Number Splitting Attacks,IEEE Access,10.1109/access.2016.2555759,Logan O. Mailloux
+T2,2025,7.0,3.5,False,Quantum Machine Learning for Detecting Known Cyber-Attacks in IoT Networks,International Conference on Inventive Systems and Control (ICISC),10.1109/icisc65841.2025.11188431,Polasi Sudhakar
+T2,2025,7.0,3.5,False,Federated quantum-inspired anomaly detection using collaborative neural clients,Frontiers in Artificial Intelligence,10.3389/frai.2025.1648609,Deepthi Godavarthi
+T2,2025,7.0,3.5,False,Enhancing Network Anomaly Detection with Quantum GANs and Successive Data Injection for Multivariate Time Series,International Wireless Communications and Mobile Computing Conference (IWCMC),10.1109/iwcmc65282.2025.11059562,Wajdi Hammami
+T2,2025,7.0,3.5,False,Federated Quantum Machine Learning for Distributed Cybersecurity in Multi-Agent Energy Systems,Energies,10.3390/en18205418,Kwabena Addo
+T2,2023,14.0,3.5,False,Long-Lived Particles Anomaly Detection with Parametrized Quantum Circuits,Particles,10.3390/particles6010016,Simone Bordoni
