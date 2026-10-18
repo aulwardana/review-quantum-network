@@ -9,8 +9,8 @@ Supporting code and data for the survey *Quantum Networks Still Need Watching: A
 | `notebooks/01_simulation_section6.ipynb` | Simulation of the attack discrimination problem (survey Section 6.4, Figure 5). Writes JSON/CSV to `results/`. |
 | `notebooks/02_literature_methodology.ipynb` | Literature search (OpenAlex, arXiv), de-duplication, tiered screening, recall check, corpus statistics, generation and verification of `ref.bib`. Writes to `outputs/`. |
 | `data/curated_references.csv` | The 126 references cited in the survey with full bibliographic fields, DOI, the sections that cite each reference, and a flag for the 31 references used in the recall check. |
-| `results/` | Output of notebook 01 (commit the files you generate). |
-| `outputs/` | Output of notebook 02 (commit the files you generate). |
+| `results/` | Output of notebook 01. |
+| `outputs/` | Output of notebook 02. |
 
 ## Run in Colab
 
@@ -30,4 +30,4 @@ Supporting code and data for the survey *Quantum Networks Still Need Watching: A
 
 ## Licence
 
-Code: MIT (see `LICENSE`). The data in `data/` are bibliographic metadata; please cite the original works.
+Code: MIT (see `LICENSE`). The data in `data/` are bibliographic metadata.

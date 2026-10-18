@@ -1,0 +1,11 @@
+claim,computed,paper,tol,ok
+strong: calibrated fixed threshold (%),8.25,8.25,0.05,True
+strong f=0.10 adaptive (%),80.0,80.0,1.0,True
+strong f=0.10 fixed calibrated (%),40.33333333333333,40.0,1.0,True
+strong f=0.10 11% abort (%),2.3333333333333335,2.0,1.0,True
+strong f=0.15 adaptive (%),95.66666666666667,96.0,1.0,True
+strong f=0.15 fixed calibrated (%),56.99999999999999,57.0,1.0,True
+strong f=0.15 11% abort (%),24.0,24.0,1.0,True
+mild f=0.10 fixed calibrated (%),94.66666666666667,95.0,1.0,True
+mild f=0.10 adaptive (%),73.0,73.0,1.0,True
+strong f=0.05: best detector (%) ~ 25,25.333333333333336,25.0,1.0,True
